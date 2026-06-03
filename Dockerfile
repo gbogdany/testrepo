@@ -1,3 +1,3 @@
 FROM busybox
 
-CMD ["echo", "Itt  mi docker csomagunk"]
+CMD ["echo", "Egy módosítás"]
