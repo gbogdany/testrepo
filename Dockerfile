@@ -1,3 +1,3 @@
 FROM busybox
 
-CMD ["echo", "Ötödik módosítás"]
+CMD ["echo", "Hatodik módosítás"]
