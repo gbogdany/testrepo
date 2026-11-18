@@ -1,3 +1,3 @@
 FROM busybox
 
-CMD ["echo", "Jó reggelt, szép napot!"]
+CMD ["echo", "Üdv a docker konténerből!"]
